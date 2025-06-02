@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+requests
+spotipy
+scikit-learn
+streamlit-option-menu
